@@ -114,7 +114,7 @@ public class day3 {
                         }
                         if(horsePowers.size()>2)throw new Exception("More than 2 horsepowers");
                         sum += (horsePowers.get(0) * horsePowers.get(1));
-                    }         
+                    }
                 }
             }
         }
